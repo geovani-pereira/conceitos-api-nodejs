@@ -1,0 +1,38 @@
+[2019-08-20 11:06:27.688] [exthost] [info] extension host started
+[2019-08-20 11:06:27.708] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-20 11:06:27.708] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-20 11:06:27.711] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-20 11:06:27.711] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-20 11:06:27.728] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-20 11:06:27.728] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-20 11:06:27.810] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-20 11:06:27.810] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-20 11:06:27.815] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-08-20 11:06:27.815] [exthost] [info] ExtensionService#loadCommonJSModule /home/geovani/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-08-20 11:06:27.854] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-08-20 11:06:27.854] [exthost] [info] ExtensionService#loadCommonJSModule /home/geovani/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-08-20 11:06:27.878] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-08-20 11:06:27.878] [exthost] [info] ExtensionService#loadCommonJSModule /home/geovani/.vscode/extensions/esbenp.prettier-vscode-1.9.0/out/src/extension
+[2019-08-20 11:06:28.054] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2019-08-20 11:06:28.054] [exthost] [info] ExtensionService#loadCommonJSModule /home/geovani/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2019-08-20 11:06:28.090] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-08-20 11:06:28.090] [exthost] [info] ExtensionService#loadCommonJSModule /home/geovani/.vscode/extensions/pkief.material-icon-theme-3.8.1/dist/extension
+[2019-08-20 11:06:28.112] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-08-20 11:06:28.112] [exthost] [info] ExtensionService#loadCommonJSModule /home/geovani/.vscode/extensions/vscode-icons-team.vscode-icons-9.2.0/dist/src/vscode-icons.bundle.js
+[2019-08-20 11:06:28.847] [exthost] [info] eager extensions activated
+[2019-08-20 11:06:31.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-08-20 11:06:31.863] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-08-20 11:10:38.067] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug2 {"startup":false,"activationEvent":"onDebugInitialConfigurations"}
+[2019-08-20 11:10:38.067] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/ms-vscode.node-debug2/out/src/extension
+[2019-08-20 11:10:38.079] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug {"startup":false,"activationEvent":"onDebugInitialConfigurations"}
+[2019-08-20 11:10:38.080] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/ms-vscode.node-debug/dist/extension.js
+[2019-08-20 11:10:38.098] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker {"startup":false,"activationEvent":"onDebugInitialConfigurations"}
+[2019-08-20 11:10:38.098] [exthost] [info] ExtensionService#loadCommonJSModule /home/geovani/.vscode/extensions/ms-azuretools.vscode-docker-0.7.0/main
+[2019-08-20 11:10:39.349] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-20 11:10:39.349] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-08-20 11:10:39.360] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-20 11:10:39.360] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-08-20 11:10:57.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"activationEvent":"onDebugResolve"}
+[2019-08-20 11:10:57.057] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-server-ready/dist/extension
+[2019-08-20 11:13:39.557] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-08-20 11:13:39.557] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
